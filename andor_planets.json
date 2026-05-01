@@ -1,0 +1,58 @@
+[
+{
+"type": "planet",
+"id": "niamos",
+"name": "Niamos",
+"first_appearance": "Season 1, Episode 1 (flashback)",
+"description": "Rural agricultural world; home of Syril Karn and Bix Caleen.",
+"notable_characters": ["Syril Karn", "Bix Caleen"]
+},
+{
+"type": "planet",
+"id": "fest",
+"name": "Fest",
+"first_appearance": "Season 1",
+"description": "Prison/industrial world where Cassian is sent; Imperial prison labor site.",
+"notable_characters": ["Cassian Andor (background)"]
+},
+{
+"type": "planet",
+"id": "aldhani",
+"name": "Aldhani",
+"first_appearance": "Season 1",
+"description": "Imperial-ruled world notable for an Imperial ceremony and a rebel heist.",
+"notable_characters": ["Luthen Rael (operation site)"]
+},
+{
+"type": "planet",
+"id": "fero",
+"name": "Fero",
+"first_appearance": "Season 1",
+"description": "Industrial/urban world appearing in background scenes.",
+"notable_characters": []
+},
+{
+"type": "planet",
+"id": "hali",
+"name": "Haidha",
+"first_appearance": "Season 1",
+"description": "Small settled worlds and outposts seen briefly (various cantina/market scenes).",
+"notable_characters": []
+},
+{
+"type": "planet",
+"id": "wri",
+"name": "Wri",
+"first_appearance": "Season 1",
+"description": "Background planet name sometimes referenced in production notes and tie material.",
+"notable_characters": []
+},
+{
+"type": "planet",
+"id": "syril-homeworld",
+"name": "Syril's home (unnamed / Niamos-related)",
+"first_appearance": "Season 1 (flashback)",
+"description": "The Karn family farm region (often treated as part of Niamos).",
+"notable_characters": ["Syril Karn"]
+}
+]
